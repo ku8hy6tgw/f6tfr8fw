@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "f6tfr8fw",
+  "description": "f6tfr8fw",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/ku8hy6tgw/f6tfr8fw",
+  "repository": "https://github.com/ku8hy6tgw/f6tfr8fw",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
